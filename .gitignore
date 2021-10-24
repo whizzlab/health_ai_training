@@ -1,0 +1,16 @@
+
+models/multilabel_characteristics_bert/variables/variables.index
+models/multilabel_characteristics_bert/variables/variables.data-00000-of-00001
+models/multilabel_characteristics_bert/saved_model.pb
+models/multilabel_characteristics_bert/keras_metadata.pb
+models/multilabel_characteristics_bert/assets/vocab.txt
+models/maturity_bert/variables/variables.index
+models/maturity_bert/variables/variables.data-00000-of-00001
+models/maturity_bert/saved_model.pb
+models/maturity_bert/keras_metadata.pb
+models/maturity_bert/assets/vocab.txt
+models/ai_literature_bert/variables/variables.index
+models/ai_literature_bert/variables/variables.data-00000-of-00001
+models/ai_literature_bert/saved_model.pb
+models/ai_literature_bert/keras_metadata.pb
+models/ai_literature_bert/assets/vocab.txt
